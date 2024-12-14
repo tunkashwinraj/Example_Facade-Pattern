@@ -1,0 +1,17 @@
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\bin\Debug\net6.0-windows\FacadePattern_1262774.exe
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\bin\Debug\net6.0-windows\FacadePattern_1262774.deps.json
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\bin\Debug\net6.0-windows\FacadePattern_1262774.runtimeconfig.json
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\bin\Debug\net6.0-windows\FacadePattern_1262774.dll
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\bin\Debug\net6.0-windows\FacadePattern_1262774.pdb
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.csproj.AssemblyReference.cache
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.Form1.resources
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.csproj.GenerateResource.cache
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.AssemblyInfoInputs.cache
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.AssemblyInfo.cs
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.csproj.CoreCompileInputs.cache
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.dll
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\refint\FacadePattern_1262774.dll
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.pdb
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\FacadePattern_1262774.genruntimeconfig.cache
+C:\CPSC501\FacadePattern_1262774\FacadePattern_1262774\obj\Debug\net6.0-windows\ref\FacadePattern_1262774.dll
